@@ -3,7 +3,6 @@
  
 My Name is MohammadYoussof 
 
-Here are some ideas to get you started:
 I am interested in computational seismic imaging. Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques, including tomography, receiver function imaging, moment tensor inversion.
 
 - 🔭 I’m currently working on Uncertainty quantification of seismic imaging
