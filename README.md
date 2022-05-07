@@ -13,5 +13,5 @@ using informed proposal of Markov chain Monte Carlo.
 - 💬 Ask me about seismic imaging technique
 - 📫 How to reach me: youssof@nbi.ku.dk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know but I am blessed with a kind family and surrounded by supportive freinds
+- ⚡ Fun fact: I don't know but I am blessed with a kind family and surrounded by supportive freinds.
 -->
