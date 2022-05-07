@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  
-**My Name is MohammadYoussof 
+My Name is MohammadYoussof 
 
 Here are some ideas to get you started:
 
