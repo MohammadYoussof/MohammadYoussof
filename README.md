@@ -12,5 +12,6 @@ using informed proposal of Markov chain Monte Carlo.
 - 🤔 I’m looking for help with OpenGL
 - 💬 Ask me about seismic imaging technique
 - 📫 How to reach me: mohammadyoussof@gmail.com
-![giphy-2](https://user-images.githubusercontent.com/25856016/167450221-e14f4aa2-11b7-4a44-bee3-f39b0713e3d3.gif)      ![giphy-3](https://user-images.githubusercontent.com/25856016/167454481-eda7acfc-f549-4250-9050-b21440333cbf.gif)
+- 
+![e7f_2copy_2](https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif)
 
