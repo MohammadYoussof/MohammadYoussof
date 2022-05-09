@@ -7,11 +7,11 @@ I am interested in computational seismic imaging. Besides being a fan of the geo
 
 - 🔭 I’m currently working on Uncertainty quantification of seismic imaging
 using informed proposal of Markov chain Monte Carlo.
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m currently learning a lot of things especially in HPC.
 - 👯 I’m looking to collaborate on anything has uncertainty quantification
-- 🤔 I’m looking for help with OpenGL
-- 💬 Ask me about seismic imaging technique
+- 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.
+- 💬 Ask me about seismic imaging techniques.
 - 📫 How to reach me: mohammadyoussof@gmail.com
-- 
+
 ![e7f_2copy_2](https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif)
 
