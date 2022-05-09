@@ -2,9 +2,6 @@
 
  
            My Name is MohammadYoussof 
-           element {
-  font-size: 75;
-}
 
 - 🔭 I am interested in computational seismic imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
