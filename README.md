@@ -3,7 +3,8 @@
  
 My Name is MohammadYoussof 
 
-I am interested in computational seismic imaging. Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques, including tomography, receiver function imaging, moment tensor inversion.
+I am interested in computational seismic imaging.
+Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
 
 - 🔭 I’m currently working on Uncertainty quantification of seismic imaging
 using informed proposal of Markov chain Monte Carlo.
@@ -14,4 +15,3 @@ using informed proposal of Markov chain Monte Carlo.
 - 📫 How to reach me: mohammadyoussof@gmail.com
 
 ![e7f_2copy_2](https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif)
-
