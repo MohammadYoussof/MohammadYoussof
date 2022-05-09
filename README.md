@@ -10,7 +10,7 @@ Besides being a fan of the geophysical inverse problems, I employ seismic wave o
 using informed proposal of Markov chain Monte Carlo.
 - 🌱 I’m currently learning a lot of things especially in HPC.
 - 👯 I’m looking to collaborate on anything has uncertainty quantification
-- 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.
+- 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.  
 - 💬 Ask me about seismic imaging techniques.
 - 📫 How to reach me: mohammadyoussof@gmail.com
 
