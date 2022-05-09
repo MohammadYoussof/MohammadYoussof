@@ -1,15 +1,16 @@
 ### Hi there 👋
 
  
-My Name is MohammadYoussof 
+           My Name is MohammadYoussof 
+           element {
+  font-size: 75;
+}
 
-I am interested in computational seismic imaging.
+- 🔭 I am interested in computational seismic imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
-
-- 🔭 I’m currently working on Uncertainty quantification of seismic imaging
+- I’m currently working on Uncertainty quantification of seismic imaging
 using informed proposal of Markov chain Monte Carlo.
 - 🌱 I’m currently learning a lot of things especially in HPC.
-- 👯 I’m looking to collaborate on anything has uncertainty quantification
 - 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.  
 - 💬 Ask me about seismic imaging techniques.
 - 📫 How to reach me: mohammadyoussof@gmail.com
