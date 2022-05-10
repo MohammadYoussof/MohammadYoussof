@@ -3,7 +3,7 @@
 
 My Name is **MohammadYoussof** 
            
-<img align="right" src="https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif" alt="Hola Coders" width="400" height="280"/> 
 
 - 🔭 I am interested in computational seismic imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
