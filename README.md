@@ -1,7 +1,9 @@
 ### Hi there 👋
-<img align="right" src="https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif" alt="Hola Coders" width="500" height="350"/> 
+
  
            My Name is MohammadYoussof 
+           
+<img align="right" src="https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif" alt="Hola Coders" width="500" height="350"/> 
 
 - 🔭 I am interested in computational seismic imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
@@ -11,5 +13,3 @@ using informed proposal of Markov chain Monte Carlo.
 - 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.  
 - 💬 Ask me about seismic imaging techniques.
 - 📫 How to reach me: mohammadyoussof@gmail.com
-
-![e7f_2copy_2](https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif)
