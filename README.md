@@ -1,7 +1,5 @@
-### Hello, I am **MohammadYoussof**  👋
+### Hello, I am **Mohammad Youssof**  👋
 
-
-My Name is **MohammadYoussof** 
 
 ##### I am a seismologist who loves waves :)
 <img align="right" src="https://user-images.githubusercontent.com/25856016/167455973-a55c0ac2-dfc7-41ab-b834-a1f0727b46ec.gif" alt="Hola Coders" width="400" height="280"/> 
