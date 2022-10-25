@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="400" height="280"/>  
 
-- 🔭 I am interested in computational seismic imaging.
+- 🔭 I am interested in computational imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
 - 🐫 I’m currently working on Uncertainty quantification of seismic imaging using informed proposal of Markov chain Monte Carlo.
 - 🌱 I’m currently learning a lot of things especially in HPC.
