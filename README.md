@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mohammad Youssof</h1>
+<h1 align="center">Hello 👋, I am Mohammad Youssof</h1>
 <h3 align="center"> I am an enthusiastic seismologist who is fascinated by wave mechanics :) </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="400" height="280"/>  
@@ -20,6 +20,3 @@ Besides being a fan of the geophysical inverse problems, I employ seismic wave o
 <p><img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadyoussof&show_icons=true&locale=en" alt="mohammadyoussof" /></p>
 
 <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadyoussof&" alt="mohammadyoussof" /></p>
-
-
-
