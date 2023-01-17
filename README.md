@@ -28,7 +28,7 @@ Besides being a fan of the geophysical inverse problems, I employ seismic wave o
 <img src="https://github-readme-stats.vercel.app/api?username=mohammadyoussof&show_icons=true" />
 </picture>
 
-<p><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyoussof&layout=compact"/></p>
+<p><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyoussof&layout=compact" /></p>
 
 
 <p><img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadyoussof&" alt="mohammadyoussof" /></p>
