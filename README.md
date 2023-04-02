@@ -5,6 +5,7 @@
 
 - 🔭 I am interested in computational imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
+- 〰️ I am curious about various imaging techniques. I am always looking for ways to improve the ability of electromagnetic or elastic waves to reveal the structure and surface of any medium.
 - 🐫 I’m currently working on Uncertainty quantification of seismic imaging using informed proposal of Markov chain Monte Carlo.
 - 🌱 I’m learning a lot of new things especially in the HPC world.
 - 💥 Movie courtesy of Michael Afanasiev, ( GitHub @michael-afanasiev ). I modified the resolution to fit the upload limit.
