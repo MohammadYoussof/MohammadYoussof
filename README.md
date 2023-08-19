@@ -3,6 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="400" height="280"/>  
 
+- 💡I am currently (August 2023) filing for a patent on a new method and apparatus for performing imaging using interferometry. Stay tuned for updates later this year.
 - 🔭 I am interested in computational imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
 - 〰️ I am curious about various imaging techniques. I am always looking for ways to improve the ability of electromagnetic or elastic waves to reveal the structure and surface of any medium.
