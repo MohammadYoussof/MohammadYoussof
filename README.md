@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Mohammad Youssof</h1>
 <h3 align="center"> I am an enthusiastic seismologist who is fascinated by wave mechanics :) </h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="385.7" height="270"/>  
+<img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="400" height="280"/>  
 
 - ⥢⬅ This is the most recent photo with my great PhD supervisor, Alan Levander, from Rice University. This photo was taken during my last visit to Alan. If you are interested in seismology and seismic imaging, would like to do your PhD at a great school, and are especially looking for a great, kind, intelligent supervisor, this is simply the non-repeatable Alan Levander
 - 💡I am currently (August 2023) filing for a patent on a new method and apparatus for performing imaging using interferometry. Stay tuned for updates later this year.
