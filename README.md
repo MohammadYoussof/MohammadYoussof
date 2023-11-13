@@ -8,8 +8,8 @@
 - 🔭 I am interested in computational imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
 - 〰️ I am curious about various imaging techniques. I am always looking for ways to improve the ability of electromagnetic or elastic waves to reveal the structure and surface of any medium.
-- 🐫 I was fortunate to work on uncertainty quantification of seismic imaging using informed proposal of Markov chain Monte Carlo. I learned a lot about that and many other things from my advisor and collaborator Klaus Mosegaard (Niels Bohr Institute, University of Copenhagen).  
-- 🌱 I am learning a lot of new good stug especially in the HPC world.
+- 🐫 I was fortunate to work on uncertainty quantification of seismic imaging using informed proposal of Markov chain Monte Carlo. I learned a lot about that and many other things from my gigantic advisor and collaborator Klaus Mosegaard (Niels Bohr Institute, University of Copenhagen).  
+- 🌱 I am learning a lot of new good stuff especially in the HPC world.
 - 💥 Movie courtesy of Michael Afanasiev, ( GitHub @michael-afanasiev ). I modified the resolution to fit the upload limit.
 - 🤔 I am interested in hearing from prospective collaborators whose research interests overlap with mine. If you have interests that are similar to mine, please drop me a line.  
 - 💬 Ask me about seismic imaging techniques.
