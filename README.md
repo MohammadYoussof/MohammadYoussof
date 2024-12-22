@@ -3,7 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/25856016/168448811-0a22bad0-de69-4501-895e-3ea7ad85e60a.gif" alt="Hola Coders" width="400" height="280"/>  
 
-- ⥢⬅ This is the most recent photo with my great PhD supervisor, Alan Levander, from Rice University. This photo was taken during my last visit to Alan. If you are interested in seismology and seismic imaging, would like to do your PhD at a great school, and are especially looking for a great, kind, intelligent supervisor, this is simply the non-repeatable Alan Levander
+- ⥢⬅ This is the most recent photo with my great PhD supervisor, Alan Levander, from Rice University. This photo was taken during my last visit to Alan early 2020. If you are interested in seismology and seismic imaging, would like to do your PhD at a great school, and are especially looking for a great, kind, intelligent supervisor, this is simply the non-repeatable Alan Levander
 - 💡I filed a non-provisional patent in April 2024 for a new method and apparatus for imaging using interferometry, featuring an innovative approach to environmental error-cancellation. Stay tuned for updates once it is published online by the USPTO.
 - 🔭 I am interested in computational imaging.
 Besides being a fan of the geophysical inverse problems, I employ seismic wave observations to apply a variety of techniques such as tomography, receiver function imaging, moment tensor inversion, relocation analysis, and shear wave splitting methods.
